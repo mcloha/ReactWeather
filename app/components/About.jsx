@@ -3,7 +3,7 @@ var React = require('react');
 var About = (props) => {
     return (
         <div>
-            <h1 className="text-center">About</h1>
+            <h1 className="text-center page-title">About</h1>
             <p>This app is part of the <b>React JS</b> course. You can try to search for weather in the <u>Get Weather</u> tab, or in the search section above.</p>
             <ul>
                 <li>
